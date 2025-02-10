@@ -1,4 +1,4 @@
-# Android device tree for Infinix  (AGo-64)
+# Android device tree for Infinix Smart 9 (X6532)
 
 ```
 #
