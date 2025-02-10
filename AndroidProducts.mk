@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_AGo-64.mk
+    $(LOCAL_DIR)/twrp_X6532.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_AGo-64-user \
-    lineage_AGo-64-userdebug \
-    lineage_AGo-64-eng
+    twrp_X6532-user \
+    twrp_X6532-userdebug \
+    twrp_X6532-eng
